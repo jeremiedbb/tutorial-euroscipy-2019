@@ -9,5 +9,4 @@ dependencies:
   - cython
   - numba
   - snakeviz
-  - gcc
 
