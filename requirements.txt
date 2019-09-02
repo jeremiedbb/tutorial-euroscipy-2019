@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+jupyter
+matplotlib
+cython
+numba
+snakeviz
+
